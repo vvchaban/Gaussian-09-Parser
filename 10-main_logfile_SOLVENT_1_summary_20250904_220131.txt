@@ -1,0 +1,9 @@
+Gaussian 09 Calculation Summary
+==================================================
+
+Final Energy: -3780.166315 Hartree
+
+Electronic Structure Information:
+state: The electronic state is 1-A.
+occupied_eigenvalues: [-0.44301, -0.41879]
+virtual_eigenvalues: [57.30286, 57.30605]
